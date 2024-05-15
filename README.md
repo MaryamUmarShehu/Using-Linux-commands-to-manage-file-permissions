@@ -84,6 +84,8 @@ The command to complete this step:
 
 `chmod g-x drafts`
 
+![Screenshot (170) revised](https://github.com/MaryamUmarShehu/Using-Linux-commands-to-manage-file-permissions/assets/169352998/65fc9e1d-6709-407b-9e8b-7aade72e9a49)
+
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
