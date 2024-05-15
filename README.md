@@ -87,10 +87,4 @@ The command to complete this step:
 ![Screenshot (170) revised](https://github.com/MaryamUmarShehu/Using-Linux-commands-to-manage-file-permissions/assets/169352998/65fc9e1d-6709-407b-9e8b-7aade72e9a49)
 
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+In conclusion, the lab on "Using Linux Commands to Manage File Permissions" has been a deep dive into the crucial tools and techniques needed to secure and manage file permissions on Linux systems. Through engaging hands-on examples, and practical exercises, I have significantly enhanced my understanding of the Linux file permissions system. More importantly, I've developed valuable skills in using command-line tools to confidently and effectively set and manage these permissions. This experience has not only expanded my knowledge but also equipped me with practical skills that are essential for navigating the complexities of Linux environments.
