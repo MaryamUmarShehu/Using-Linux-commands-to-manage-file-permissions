@@ -23,7 +23,7 @@ The primary objective of this lab is to show that I have the practical skills an
 
 - Command line interface
 
-## Lab Exercise
+### Lab Exercise
 
 Check file and directory details
 In this task, we will explore the permissions of the projects directory and the files it contains.The lab starts with /home/researcher2 as the current working directory. This is because you're changing permissions for files and directories belonging to the researcher2 user. 
@@ -56,9 +56,23 @@ The command to complete this step:
 `ls -la`
 
 ![Screenshot (165) revised](https://github.com/MaryamUmarShehu/Using-Linux-commands-to-manage-file-permissions/assets/169352998/d6eabbac-7b56-445a-85fa-e0da92c3d740)
-The `.project_x.txt` file is hidden.
+The `.project_x.txt` file is hidden  as shown in the screenshot above.
 
 
+
+Change file permissions
+
+In this task, you must determine whether any files have incorrect permissions and then change the permissions as needed. This action will remove unauthorized access and strengthen security on the system.
+
+We will chanhing the permissins using the chmod command so that none of the files should allow the other users to write to files.
+
+`chmod o-w project_k.txt`
+
+Use the `chmod` command to change permissions of the `project_m.txt` file so that the group doesn’t have read or write permissions.
+
+`chmod g-r project_m.txt`
+
+![Screenshot (165) revised](https://github.com/MaryamUmarShehu/Using-Linux-commands-to-manage-file-permissions/assets/169352998/d6eabbac-7b56-445a-85fa-e0da92c3d740)
 
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
