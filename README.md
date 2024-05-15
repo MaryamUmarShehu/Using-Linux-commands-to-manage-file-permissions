@@ -56,10 +56,7 @@ The command to complete this step:
 `ls -la`
 
 ![Screenshot (165) revised](https://github.com/MaryamUmarShehu/Using-Linux-commands-to-manage-file-permissions/assets/169352998/d6eabbac-7b56-445a-85fa-e0da92c3d740)
-Which of these files is hidden in the projects directory?.project_r.txt.project_x.txtThere are no hidden files.project_m.txt
-
-
-**Answer**: The `.project_x.txt` file is hidden.
+The `.project_x.txt` file is hidden.
 
 
 
