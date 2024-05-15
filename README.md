@@ -68,11 +68,21 @@ We will chanhing the permissins using the chmod command so that none of the file
 
 `chmod o-w project_k.txt`
 
-Use the `chmod` command to change permissions of the `project_m.txt` file so that the group doesn’t have read or write permissions.
+Using the `chmod` command to change permissions of the `project_m.txt` file so that the group doesn’t have read or write permissions.
 
 `chmod g-r project_m.txt`
 
-![Screenshot (165) revised](https://github.com/MaryamUmarShehu/Using-Linux-commands-to-manage-file-permissions/assets/169352998/d6eabbac-7b56-445a-85fa-e0da92c3d740)
+![Screenshot (167) revised](https://github.com/MaryamUmarShehu/Using-Linux-commands-to-manage-file-permissions/assets/169352998/7c70c3a8-c50b-448c-b9bc-f664bdbdb784)
+
+# **Change directory permissions**
+
+In this task, you must change the permissions of a directory. 
+
+Only the `researcher2` user should be allowed to access the `drafts` directory and its contents. Remove the execute permission for the group from the `drafts` directory.
+
+The command to complete this step:
+
+`chmod g-x drafts`
 
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
